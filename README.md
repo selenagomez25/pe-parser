@@ -11,6 +11,6 @@ pe-parser is a simple and efficient portable executable (pe) file parser written
 - outputs section names, sizes, and virtual addresses
 
 ## usage:
-go run main.go <path_to_pe_file> 
+`go run main.go <path_to_pe_file>`
 
 this tool is easy to use and extend, making it a valuable addition to any developer's toolkit for analyzing windows executables.
