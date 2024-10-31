@@ -9,3 +9,8 @@ pe-parser is a simple and efficient portable executable (pe) file parser written
 - provides timestamp information
 - lists characteristics of the pe file
 - outputs section names, sizes, and virtual addresses
+
+## usage:
+go run main.go <path_to_pe_file> 
+
+this tool is easy to use and extend, making it a valuable addition to any developer's toolkit for analyzing windows executables.
